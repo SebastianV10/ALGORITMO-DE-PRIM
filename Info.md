@@ -2,9 +2,9 @@
 
 Para la ejecucion del codigo, debemos tener en cuenta estos items.
 
-* Algoritmo
-* Conjunto de datos
-* uso de anaconda como entorno de desarrollo
+* Algoritmo `K-nn.ipynb`
+* Conjunto de datos `datos.csv`
+* uso de anaconda como entorno de desarrollo `anaconda`
 
 
 
