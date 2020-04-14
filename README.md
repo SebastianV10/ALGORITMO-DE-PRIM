@@ -133,3 +133,5 @@ vecinos, con el fin de elegir el numero exacto con error minimo en el
 rango.
 
     
+
+> Este proyecto cuenta con licencia conforme a los terminos de la licencia MIT
